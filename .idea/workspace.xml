@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e690530-d3be-43ed-846e-e85faeffa683" name="Changes" comment="7.6.8 add">
+    <list default="true" id="9e690530-d3be-43ed-846e-e85faeffa683" name="Changes" comment="7.6.8 edited&#10;7.7.3 add&#10;7.7.4 add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7.6.8unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/7.6.8unit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.7.4unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/7.7.4unit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,7 @@
     "Python.7.1.executor": "Run",
     "Python.7.6.8unit.executor": "Run",
     "Python.7.7.3unit.executor": "Run",
+    "Python.7.7.4unit.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -125,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708928448134</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="7.6.8 edited&#10;7.7.3 add&#10;7.7.4 add">
+      <option name="closed" value="true" />
+      <created>1708929201482</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708929201483</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +153,7 @@
     <MESSAGE value="7.1 add" />
     <MESSAGE value="7.1&gt;7.1.2 rename&#10;7.1.3 add" />
     <MESSAGE value="7.6.8 add" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.6.8 add" />
+    <MESSAGE value="7.6.8 edited&#10;7.7.3 add&#10;7.7.4 add" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.6.8 edited&#10;7.7.3 add&#10;7.7.4 add" />
   </component>
 </project>
