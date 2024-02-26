@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e690530-d3be-43ed-846e-e85faeffa683" name="Changes" comment="7.7.7 edited">
-      <change afterPath="$PROJECT_DIR$/7.7.8unit.py" afterDir="false" />
+    <list default="true" id="9e690530-d3be-43ed-846e-e85faeffa683" name="Changes" comment="directories and 7_8 add">
+      <change afterPath="$PROJECT_DIR$/7_8/7.8.6unit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_8/7.8.7unit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_8/7.8.8unit.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_8/7.8.5unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_8/7.8.5unit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +44,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -63,6 +69,10 @@
     "Python.7.7.6unit.executor": "Run",
     "Python.7.7.7unit.executor": "Run",
     "Python.7.7.8unit.executor": "Run",
+    "Python.7.8.5unit.executor": "Run",
+    "Python.7.8.6unit.executor": "Run",
+    "Python.7.8.7unit.executor": "Run",
+    "Python.7.8.8unit.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -71,6 +81,9 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hismatullin_er\PycharmProjects\stepik\7_7" />
+      <recent name="C:\Users\hismatullin_er\PycharmProjects\stepik\7_6" />
+      <recent name="C:\Users\hismatullin_er\PycharmProjects\stepik\7_1" />
       <recent name="C:\Users\hismatullin_er\PycharmProjects\stepik" />
     </key>
   </component>
@@ -162,7 +175,23 @@
       <option name="project" value="LOCAL" />
       <updated>1708948431520</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="7.7.8">
+      <option name="closed" value="true" />
+      <created>1708949543661</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708949543661</updated>
+    </task>
+    <task id="LOCAL-00011" summary="directories and 7_8 add">
+      <option name="closed" value="true" />
+      <created>1708949635634</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708949635634</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +214,8 @@
     <MESSAGE value="7.6.4 edited&#10;7.7.5 add" />
     <MESSAGE value="7.6.6 edited&#10;7.7.7 add" />
     <MESSAGE value="7.7.7 edited" />
-    <option name="LAST_COMMIT_MESSAGE" value="7.7.7 edited" />
+    <MESSAGE value="7.7.8" />
+    <MESSAGE value="directories and 7_8 add" />
+    <option name="LAST_COMMIT_MESSAGE" value="directories and 7_8 add" />
   </component>
 </project>
