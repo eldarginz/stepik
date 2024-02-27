@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e690530-d3be-43ed-846e-e85faeffa683" name="Changes" comment="directories and 7_8 add">
-      <change afterPath="$PROJECT_DIR$/7_8/7.8.6unit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_8/7.8.7unit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_8/7.8.8unit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_8/7.8.5unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_8/7.8.5unit.py" afterDir="false" />
-    </list>
+    <list default="true" id="9e690530-d3be-43ed-846e-e85faeffa683" name="Changes" comment="do 7.8.8" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -191,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708949635634</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="do 7.8.8">
+      <option name="closed" value="true" />
+      <created>1708952201311</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1708952201311</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +218,7 @@
     <MESSAGE value="7.7.7 edited" />
     <MESSAGE value="7.7.8" />
     <MESSAGE value="directories and 7_8 add" />
-    <option name="LAST_COMMIT_MESSAGE" value="directories and 7_8 add" />
+    <MESSAGE value="do 7.8.8" />
+    <option name="LAST_COMMIT_MESSAGE" value="do 7.8.8" />
   </component>
 </project>
