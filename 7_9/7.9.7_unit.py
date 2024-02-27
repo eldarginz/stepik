@@ -12,7 +12,9 @@ def prime_num(x):
 #     if prime_num(i) == True:
 #
 
-if prime_num(7) == True:
+if prime_num(7):
     print('True')
 else:
     print('False')
+
+# test vscode
