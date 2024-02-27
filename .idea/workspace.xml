@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e690530-d3be-43ed-846e-e85faeffa683" name="Changes" comment="done 7.8.8&#10;add 7.8.9">
-      <change beforePath="$PROJECT_DIR$/7_8/7.8.9unit.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_8/7.8.9unit.py" afterDir="false" />
+    <list default="true" id="9e690530-d3be-43ed-846e-e85faeffa683" name="Changes" comment="done 7.8.9">
+      <change afterPath="$PROJECT_DIR$/7_8/7.8.11_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_8/7.8.12_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +67,13 @@
     "Python.7.7.6unit.executor": "Run",
     "Python.7.7.7unit.executor": "Run",
     "Python.7.7.8unit.executor": "Run",
+    "Python.7.8.12_test.executor": "Run",
     "Python.7.8.5unit.executor": "Run",
     "Python.7.8.6unit.executor": "Run",
     "Python.7.8.7unit.executor": "Run",
     "Python.7.8.8unit.executor": "Run",
     "Python.7.8.9unit.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -78,6 +82,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hismatullin_er\PycharmProjects\stepik\7_8" />
       <recent name="C:\Users\hismatullin_er\PycharmProjects\stepik\7_7" />
       <recent name="C:\Users\hismatullin_er\PycharmProjects\stepik\7_6" />
       <recent name="C:\Users\hismatullin_er\PycharmProjects\stepik\7_1" />
@@ -204,7 +209,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709011266564</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="done 7.8.9">
+      <option name="closed" value="true" />
+      <created>1709011372295</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709011372295</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +244,7 @@
     <MESSAGE value="directories and 7_8 add" />
     <MESSAGE value="do 7.8.8" />
     <MESSAGE value="done 7.8.8&#10;add 7.8.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="done 7.8.8&#10;add 7.8.9" />
+    <MESSAGE value="done 7.8.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="done 7.8.9" />
   </component>
 </project>
