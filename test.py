@@ -30,16 +30,17 @@
 #print(xfirst + xlast)
 
 
-print(5 // 10)
-print('test')
+# print(5 // 10)
+# print('test')
+# 
+# def sumbolsh5(x):
+#     # сумму его цифр, больших пяти
+#     max = 0
+#     while x != 0:
+#         if x % 10 > 5:
+#             max += x
+#         x //= 10
+#     return max
+# 
+# print(sumbolsh5(56639))
 
-def sumbolsh5(x):
-    # сумму его цифр, больших пяти
-    max = 0
-    while x != 0:
-        if x % 10 > 5:
-            max += x
-        x //= 10
-    return max
-
-print(sumbolsh5(56639))

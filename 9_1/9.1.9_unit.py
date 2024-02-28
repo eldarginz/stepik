@@ -1,0 +1,6 @@
+text1 = input()
+text2 = input()
+text3 = input()
+print(text2[0], end='')
+print(text1[0], end='')
+print(text3[0], end='')
