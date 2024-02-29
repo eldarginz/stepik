@@ -1,4 +1,1 @@
-number = int(input())
-
-#123
-
+print(format(int(input()), 'b'))
