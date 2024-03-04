@@ -1,0 +1,1 @@
+print(list(chr(x) for x in range(97, 97 + int(input()))))

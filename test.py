@@ -1,46 +1,25 @@
-# Дано натуральное число. Напишите программу, которая вычисляет:
-# 
-# сумму его цифр;
-# количество цифр в нем;
-# произведение его цифр;
-# среднее арифметическое его цифр;
-# его первую цифру;
-# сумму его первой и последней цифры.
-
-#x = int(input())
-#xlast = x % 10
-#xfirst = int(0)
-#xcounter = int(0)
-#xsumma = int(0)
-#xproiz = int(1)
+#text = input()
 #
-#while x != 0:
-#    xcounter += 1
-#    xsumma += x % 10
-#    xproiz *= x % 10
-#    if x > 0:
-#        xfirst = x
-#    x //= 10
+#for i in range (1, len(text)):
+#    if i%3 != 0:
+#        print(text[i], end='')
+
+#text = input()
 #
-#print(xsumma)
-#print(xcounter)
-#print(xproiz)
-#print(xsumma / xcounter)
-#print(xfirst)
-#print(xfirst + xlast)
+#if text.count('f') == 0:
+#    print('-2')
+#elif text.count('f') == 1:
+#    print('-1')
+#elif text.count('f') > 1:
+#    print(text.find('f', text.find('f')+1))
 
+text = input()
+start = text.find('h')
+end = text.rfind('h')
 
-# print(5 // 10)
-# print('test')
-# 
-# def sumbolsh5(x):
-#     # сумму его цифр, больших пяти
-#     max = 0
-#     while x != 0:
-#         if x % 10 > 5:
-#             max += x
-#         x //= 10
-#     return max
-# 
-# print(sumbolsh5(56639))
-
+for i in range(0,start+1):
+    print(text[i], end='')
+for i in range(end-1, start, -1):
+    print(text[i], end='')
+for i in range(end, len(text)):
+    print(text[i], end='')
