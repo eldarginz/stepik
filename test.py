@@ -1,25 +1,12 @@
-#text = input()
-#
-#for i in range (1, len(text)):
-#    if i%3 != 0:
-#        print(text[i], end='')
+a, b, c = float(input()), float(input()), float(input())
+d = b**2 - 4 * a * c
 
-#text = input()
-#
-#if text.count('f') == 0:
-#    print('-2')
-#elif text.count('f') == 1:
-#    print('-1')
-#elif text.count('f') > 1:
-#    print(text.find('f', text.find('f')+1))
-
-text = input()
-start = text.find('h')
-end = text.rfind('h')
-
-for i in range(0,start+1):
-    print(text[i], end='')
-for i in range(end-1, start, -1):
-    print(text[i], end='')
-for i in range(end, len(text)):
-    print(text[i], end='')
+if d == 0:
+    print(-b/(2*a))
+elif d>0:
+    x1 = (-b + d**0.5)/(2*a)
+    x2 = (-b - d**0.5)/(2*a)
+    print(min(x1,x2))
+    print(max(x1,x2))
+elif d<0:
+    print('Нет корней')
